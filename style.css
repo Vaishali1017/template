@@ -1,0 +1,32 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+
+.container-fluid{
+	top: -100%;
+	margin-top: 0;
+	margin-bottom: 0;
+
+
+}
+.left{
+	display: block;
+	position: absolute;
+	float: left;
+	width: 100%;
+	margin-top: 0;
+	
+   
+}
+.right{
+	display: block;
+	position: relative;
+	float: right;
+	margin-top: 0;
+}
+.heading my-4{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	display: block;
+}
